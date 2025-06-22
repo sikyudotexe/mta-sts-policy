@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mail.yourdomain.com
+mx: mail.calingacion.com
 max_age: 86400
